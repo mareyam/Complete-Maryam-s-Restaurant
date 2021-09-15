@@ -60,9 +60,12 @@ when a food is select, the particular receipe shows up.
 ![image](https://user-images.githubusercontent.com/63284481/133472070-415e1e47-d535-42ce-9e31-7d9bc094f212.png)
 ![image](https://user-images.githubusercontent.com/63284481/133472179-f50bd25b-1bc7-4f88-8525-ac920cf75a89.png)
 ![image](https://user-images.githubusercontent.com/63284481/133472114-f52b3eb8-50a5-4c7b-9bbf-0b5704681b0c.png)
+![image](https://user-images.githubusercontent.com/63284481/133472139-b9692f14-c95b-44ea-8a42-71e7be71f4a3.png)
  
 # A perfect footer
-![image](https://user-images.githubusercontent.com/63284481/133472139-b9692f14-c95b-44ea-8a42-71e7be71f4a3.png)
+
+![Uploading image.png…]()
+
 
 # Accordian
 Made with auto height, the Accordian will display an answer when clicked on + 
